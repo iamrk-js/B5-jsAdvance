@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Angular 15 Routing Features",
+      "body": "Angular 15"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "she repels troubles as if she were training, whoever she is",
+      "body": "and just but by what right\nthe lust of every one who chooses to be blinded, or to the\nlust of pains or accusers, who is spared"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "and he is blinded",
+      "body": "by rejecting any and often to gain pleasure\nbut it is easy to assume the fault of things\nwhoever does not know the benefits here is bound by the thing and the pain itself by right\nwhosoever wants the pleasure of things"
+    },
+    {
+      "title": "Angular 15 new updates",
+      "body": "Angular 15 new updates",
+      "userId": 7,
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

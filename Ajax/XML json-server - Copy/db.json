@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "are or do repels provide blacked out except option criticizes",
+      "body": "because he also accepts\nundertakes the consequences of refusal and when\nhe criticizes the troubles so that the whole\nof our things are but they are the matter will happen to the architect"
+    },
+    {
+      "title": "Angular 15 Routing Module",
+      "body": "Angular 15",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "Angular 15 new features",
+      "body": "Angular 15 updates",
+      "userId": 9,
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "movieDb": [
+    {
+      "name": "Start Up",
+      "imgUrl": "",
+      "rating": 5,
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
+</head>
+
+<body>
+    <h1 class="bg-primary text-white p-4 mb-4">CRUD using XHR</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 offset-sm-3">
+                <form id="postForm">
+                    <div class="form-group">
+                        <label for="title">
+                            <strong>Title</strong>
+                        </label>
+                        <input type="text" id="title" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="info">
+                            <strong>Info</strong>
+                        </label>
+                        <textarea rows="3" id="info" class="form-control"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <button class="btn btn-success" type="submit" id="btnSubmit">Submit</button>
+                        <button class="btn btn-success d-none" type="button" id="btnUpdate">Update</button>
+                    </div>
+                </form>
+                <hr>
+                <div id="postContainer">
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="./assets/js/app.js"></script>
+</body>
+
+</html>
